@@ -30,3 +30,7 @@ hunter_config (cpf_async_UV
     URL "https://github.com/All8Up/cpf_async_UV/archive/v0.0.1.tar.gz"
     SHA1 3bdf9128674e3832f5008901796e6841a6da90f5
 )
+hunter_config (cpf_scripting_python
+    URL "https://github.com/All8Up/cpf_scripting_python/archive/v0.0.13.tar.gz"
+    SHA1 305d3a8928411d2f3408dfea2d7ed72577070862
+)
