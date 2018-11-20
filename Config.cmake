@@ -23,8 +23,8 @@ hunter_config (cpf_concurrency
     SHA1 3e3fca84cea1e0804d49064d341017403233c993
 )
 hunter_config (cpf_async
-    URL "https://github.com/All8Up/cpf_async/archive/v0.0.11.tar.gz"
-    SHA1 deef234760445393489b81939cd605b00e414b6c
+    URL "https://github.com/All8Up/cpf_async/archive/v0.0.13.tar.gz"
+    SHA1 5aec3398d8eca1504575631869cdbe858795b07a
 )
 hunter_config (cpf_async_UV
     URL "https://github.com/All8Up/cpf_async_UV/archive/v0.0.1.tar.gz"
