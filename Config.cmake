@@ -1,6 +1,6 @@
 hunter_config (cpf
-    URL "https://github.com/All8Up/cpf_core/archive/v0.0.74.tar.gz"
-    SHA1 e5603245278c9f5c230978980a212195c6f42d02
+    URL "https://github.com/All8Up/cpf_core/archive/v0.0.75.tar.gz"
+    SHA1 4149ba09c642f57a13b8c1f501528db6bf8d4128
 )
 hunter_config (cpf_kpi
     URL "https://github.com/All8Up/cpf_kpi/archive/v0.0.6.tar.gz"
