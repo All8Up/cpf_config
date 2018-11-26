@@ -1,6 +1,6 @@
 hunter_config (cpf
-    URL "https://github.com/All8Up/cpf_core/archive/v0.0.79.tar.gz"
-    SHA1 1bc8ca8193cf82a9b33a1e1c176464be84d51847
+    URL "https://github.com/All8Up/cpf_core/archive/v0.0.80.tar.gz"
+    SHA1 dcf7082ae1e9bfc98910b5193d34c044d7f5147d
     CMAKE_ARGS
         CPF_CONFIG_VERSION=${CPF_CONFIG_VERSION}
         CPF_TOOLCHAINS_VERSION=${CPF_TOOLCHAINS_VERSION}
