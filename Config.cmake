@@ -39,8 +39,8 @@ hunter_config (cpf_scripting_python
         BUILD_SHARED_LIBS=${CPF_BUILD_SHARED}
 )
 hunter_config (cpf_concurrency
-    URL "https://github.com/All8Up/cpf_concurrency/archive/v0.0.2.tar.gz"
-    SHA1 5299d261efbee1e4db03bee3a4e38a4545618f62
+    URL "https://github.com/All8Up/cpf_concurrency/archive/v0.0.3.tar.gz"
+    SHA1 9ce3f04ac7c2b3cdeb32d6ac97d168806970a41d
     CMAKE_ARGS
         CPF_CONFIG_VERSION=${CPF_CONFIG_VERSION}
         CPF_TOOLCHAINS_VERSION=${CPF_TOOLCHAINS_VERSION}
