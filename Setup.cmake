@@ -1,5 +1,13 @@
 option (CPF_BUILD_SHARED "Build libraries as shared." OFF)
 
+# ###############################################
+# Add a custom property to associate IDL files with targets.
+define_property (TARGET
+    PROPERTY CPF_IDL_DIR
+    BRIEF_DOCS "The directory containing IDL files for the target."
+    FULL_DOCS "The directory containing IDL files for the target."
+)
+
 if (CPF_BUILD_SHARED)
 	set (BUILD_SHARED_LIBS ON CACHE STRING "Build shared libraries." FORCE)
 endif ()
